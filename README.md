@@ -6,7 +6,8 @@
 </picture>
 </p>
 
-<h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
+<h3 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h3>
+<p align="center"><img src="images/divider.svg" width="100%" height="2"></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-SQLite-480CA8?style=flat-square&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/-React-480CA8?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/-Framer-480CA8?style=flat-square&logo=framer&logoColor=white"/><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/><img src="https://img.shields.io/badge/-Go-480CA8?style=flat-square&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/-HTML5-480CA8?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/-CSS3-480CA8?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/-MySQL-480CA8?style=flat-square&logo=mysql&logoColor=white"/>
