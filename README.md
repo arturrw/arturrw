@@ -1,46 +1,12 @@
 <h2 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h2>
 
-<table align="center" cellspacing="6" cellpadding="0" border="0">
-<tr>
-<td><img src="https://img.shields.io/badge/-Node.js-480CA8?style=flat-square&logo=node.js&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-React-480CA8?style=flat-square&logo=react&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Tailwind_CSS-480CA8?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-shadcn%2Fui-480CA8?style=flat-square&logo=shadcnui&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Git-480CA8?style=flat-square&logo=git&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-HTML5-480CA8?style=flat-square&logo=html5&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-CSS3-480CA8?style=flat-square&logo=css3&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-MySQL-480CA8?style=flat-square&logo=mysql&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-Firebase-480CA8?style=flat-square&logo=firebase&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-OnePageCRM-480CA8?style=flat-square&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=nginx&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Android_Studio-480CA8?style=flat-square&logo=androidstudio&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-JavaScript-480CA8?style=flat-square&logo=javascript&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-phpMyAdmin-480CA8?style=flat-square&logo=phpmyadmin&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Laravel-480CA8?style=flat-square&logo=laravel&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Next.js-480CA8?style=flat-square&logo=nextdotjs&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-Go-480CA8?style=flat-square&logo=go&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-GoAdmin-480CA8?style=flat-square&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-PostgreSQL-480CA8?style=flat-square&logo=postgresql&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Vue.js-480CA8?style=flat-square&logo=vuedotjs&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-PHP-480CA8?style=flat-square&logo=php&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-MongoDB-480CA8?style=flat-square&logo=mongodb&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Pandas-480CA8?style=flat-square&logo=pandas&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-NumPy-480CA8?style=flat-square&logo=numpy&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/-Snowflake-480CA8?style=flat-square&logo=snowflake&logoColor=white"/></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/-Node.js-480CA8?style=flat-square&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/-React-480CA8?style=flat-square&logo=react&logoColor=white"/><img src="https://img.shields.io/badge/-Tailwind_CSS-480CA8?style=flat-square&logo=tailwindcss&logoColor=white"/><img src="https://img.shields.io/badge/-shadcn%2Fui-480CA8?style=flat-square&logo=shadcnui&logoColor=white"/><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/-Git-480CA8?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/-HTML5-480CA8?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/-CSS3-480CA8?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/-MySQL-480CA8?style=flat-square&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/-Firebase-480CA8?style=flat-square&logo=firebase&logoColor=white"/><img src="https://img.shields.io/badge/-OnePage-480CA8?style=flat-square&logoColor=white"/><img src="https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=nginx&logoColor=white"/><img src="https://img.shields.io/badge/-Android-480CA8?style=flat-square&logo=androidstudio&logoColor=white"/><img src="https://img.shields.io/badge/-Framer-000000?style=flat-square&logo=framer&logoColor=white"/><img src="https://img.shields.io/badge/-JavaScript-480CA8?style=flat-square&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/-phpMyAdmin-480CA8?style=flat-square&logo=phpmyadmin&logoColor=white"/><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/-Laravel-480CA8?style=flat-square&logo=laravel&logoColor=white"/><img src="https://img.shields.io/badge/-Next-480CA8?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/-Go-480CA8?style=flat-square&logo=go&logoColor=white"/><img src="https://img.shields.io/badge/-GoAdmin-480CA8?style=flat-square&logoColor=white"/><img src="https://img.shields.io/badge/-PostgreSQL-480CA8?style=flat-square&logo=postgresql&logoColor=white"/><img src="https://img.shields.io/badge/-VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/-Vue.js-480CA8?style=flat-square&logo=vuedotjs&logoColor=white"/><img src="https://img.shields.io/badge/-PHP-480CA8?style=flat-square&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/-MongoDB-480CA8?style=flat-square&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/-Pandas-480CA8?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/-NumPy-480CA8?style=flat-square&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/-Snowflake-480CA8?style=flat-square&logo=snowflake&logoColor=white"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=arturrw&background=0D1117&stroke=3C1E63&ring=480CA8&fire=480CA8&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
