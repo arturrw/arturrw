@@ -35,3 +35,7 @@
 <img src="https://img.shields.io/badge/-NumPy-480CA8?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Snowflake-480CA8?style=flat-square&logo=snowflake&logoColor=white"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arturrw&hide_border=true&background=480CA8&stroke=480CA8&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
+</p>
