@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<h3 align="center">Technology Stack <img src="images/laptop.gif" width="50"></h3>
+<h3 align="center">Technology Stack <img src="images/cat.gif" width="50"></h3>
 <p align="center"><img src="images/divider.svg" width="100%" height="2"></p>
 
 <p align="center">
